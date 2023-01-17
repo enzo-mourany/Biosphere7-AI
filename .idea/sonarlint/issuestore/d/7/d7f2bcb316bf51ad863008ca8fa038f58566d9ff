@@ -1,0 +1,15 @@
+
+Z
+java:S6208‰"CMerge the previous cases into this one using comma-separated label.(îœÀ•
+_
+java:S6208£"CMerge the previous cases into this one using comma-separated label.(ªè…ışÿÿÿÿ
+F
+java:S1066Ã"/Merge this if statement with the enclosing one.(‹§í¼
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•­Ìúÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(é³»äùÿÿÿÿ
+8	java:S131‡""Add a default case to this switch.(Š ˜„
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(™ÈËÁıÿÿÿÿ
